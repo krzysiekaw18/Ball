@@ -1,3 +1,3 @@
 # Ball
 
-This is exercise for multithreading and JavaFx.
+This is exercise for multithreading and JavaFx. 
